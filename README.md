@@ -1,11 +1,15 @@
 
 
 Full Stack Software Developer
------------------------------
+----------------------------
 
-I'm a 20 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 24 year old developer with experience working on freelance projects.
+Starting development in 2021 at the age of 22, I recognize myself as an enthusiast of new technologies on the market, with learning acquired day after day, I am currently also studying
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+I consider myself agile and consistent in learning a new technology and highly adaptable to changes, ready to overcome any challenge!
+If I could define myself in 3 words, they would certainly be: optimistic, persevering and hardworking! :)-
+
+I am also a systems analysis and development student at [Unopar](https://www.unopar.com.br/).
 
 * 🌍  I live in Minas Gerais, Brazil.
 * ✉️  You can contact me at [wellingtoneduardo16@outlook.com](mailto:wellingtoneduardo16@outlook.com).
