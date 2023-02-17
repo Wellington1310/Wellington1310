@@ -58,7 +58,4 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 <a href="https://github.com/wellington1310" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=Wellington1310&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
