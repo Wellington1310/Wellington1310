@@ -14,7 +14,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives.
 * ⚡  I love sports and my favorite is football.
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/Wellington1310" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 <p align="left">
   <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+  </a> <a href="https://github.com/Wellington1310" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
  </a> <a href="https://www.linkedin.com/in/wellington-eduardo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
