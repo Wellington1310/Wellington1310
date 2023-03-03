@@ -4,7 +4,7 @@ Full Stack Software Developer
 ----------------------------
 
 I'm a 24 year old developer with experience working on freelance projects.
-Starting development in 2021 at the age of 22, I recognize myself as an enthusiast of new technologies on the market, with learning acquired day after day, I am currently also studying
+Starting development in 2021 at the age of 22, I recognize myself as an enthusiast of new technologies on the market, with learning acquired day after day.
 
 I consider myself agile and consistent in learning a new technology and highly adaptable to changes, ready to overcome any challenge!
 If I could define myself in 3 words, they would certainly be: optimistic, persevering and hardworking! :)-
